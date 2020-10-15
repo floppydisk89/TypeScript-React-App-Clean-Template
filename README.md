@@ -1,5 +1,8 @@
+## About this template
 TypeScript React App Clean Temaplate is a modified template from Create React App that contains its structure and actually needed files organized to start a project.
 
+#### Don't forget to run 'npm update' to update to the latest package versions.
+---
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
